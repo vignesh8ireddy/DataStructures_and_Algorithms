@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ba60b1-1648-49a0-a493-9f9e9d1f7f6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms01_Recursion/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms01_Recursion/src/main/java/com/vignesh/RecursionParadigm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms01_Recursion/src/test/java/com/vignesh/TestRecursionParadigm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithms_And_Analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataStructures_and_Algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/src/main/java/com/vignesh/ADivideAndConquerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/src/main/java/com/vignesh/rest/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/src/main/java/com/vignesh/service/IDCCExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/src/main/java/com/vignesh/service/IDCCExamplesImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aDivide_And_Conquer/src/test/java/com/vignesh/ADivideAndConquerApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="06ba60b1-1648-49a0-a493-9f9e9d1f7f6f" name="Changes" comment="Add Algorithms01-Recursion, Update README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,8 +78,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744299951408</updated>
-      <workItem from="1744299952767" duration="4812000" />
+      <workItem from="1744299952767" duration="5092000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Algorithms01-Recursion, Update README.md">
+      <option name="closed" value="true" />
+      <created>1744304901239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744304901239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add Algorithms01-Recursion, Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Algorithms01-Recursion, Update README.md" />
   </component>
 </project>
