@@ -1,4 +1,4 @@
-## Algorithms
+## =====| Algorithms |=====
 
 * Algorithm
 * Recursion Technique
@@ -36,21 +36,43 @@
   * Backtracking
   * Dynamic Programming
   * Hashing
-* Divide and Conquer Paradigm
-  * Finding MIN or MAX in a given collection of Numbers
-  * Integer A to the Power of Integer B
-  * Binary Search (Check if Number K is present in a sorted collection of N Numbers)
-  * Merge Sort
-    * Fibonacci Merge Sort
+  
+### Divide and Conquer Paradigm
+* Finding MIN or MAX in a given collection of Numbers
+* Integer A to the Power of Integer B
+* Binary Search (Check if Number K is present in a sorted collection of N Numbers)
+* Merge Sort
+  * Fibonacci Merge Sort
   * Count number of Inversions in a collection of N Numbers
-  * Quick Sort
-    * Hoare's Partition
-    * Lomuto's Partition
-    * Bruteforce Quick Sort (Out-place)
-    * Optimised Quick Sort (In-place)
-    * Randomized Quick Sort
-  * Selection Procedure
-  * Matrices Multiplication
-    * Strassen's Matrix Multiplication
-  * Maximum Sub-Array Sum
-    * Kadane's Algorithm
+* Quick Sort
+  * Hoare's Partition
+  * Lomuto's Partition
+  * Bruteforce Quick Sort (Out-place)
+  * Optimised Quick Sort (In-place)
+  * Randomized Quick Sort
+* Selection Procedure
+* Matrices Multiplication
+  * Strassen's Matrix Multiplication
+* Maximum Sub-Array Sum
+  * Kadane's Algorithm
+
+### Greedy Paradigm
+
+### Dynamic Programming
+
+### Hashing
+
+## =====| Data Structures |=====
+
+### Array
+### String
+### Linked List
+* Singly Linked List
+* Circular SLL
+* Doubly Linked List
+* Circular DLL
+### Tree, Binary Tree
+* Binary Heap
+* Binary Search Tree
+* 
+### Graph
