@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ba60b1-1648-49a0-a493-9f9e9d1f7f6f" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms03_BitManipulation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms03_BitManipulation/src/main/java/com/vignesh/BitManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms03_BitManipulation/src/main/java/com/vignesh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms03_BitManipulation/src/test/java/com/vignesh/BitManipulationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06ba60b1-1648-49a0-a493-9f9e9d1f7f6f" name="Changes" comment="Add Algorithms03_BitManipulation, Update README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +181,7 @@
       <workItem from="1744384364894" duration="78000" />
       <workItem from="1744734736858" duration="1424000" />
       <workItem from="1744922005420" duration="4570000" />
-      <workItem from="1744942877600" duration="6786000" />
+      <workItem from="1744942877600" duration="7212000" />
     </task>
     <task id="LOCAL-00001" summary="Add Algorithms01-Recursion, Update README.md">
       <option name="closed" value="true" />
@@ -225,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744932065051</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Algorithms03_BitManipulation, Update README.md">
+      <option name="closed" value="true" />
+      <created>1744949950698</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744949950698</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +233,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add Algorithms01-Recursion, Update README.md" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Add Algorithms03_BitManipulation, Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Algorithms03_BitManipulation, Update README.md" />
   </component>
 </project>

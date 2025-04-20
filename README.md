@@ -26,7 +26,7 @@
   * Master's Theorem
     * UseCase: Divide and Conquer Paradigm
 
-### Sort Techniques
+### Sorting Techniques
   * Stability of a Sorting Algorithm
     * UseCases
   * Bubble Sort
