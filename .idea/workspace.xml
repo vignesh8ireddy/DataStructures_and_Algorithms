@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ba60b1-1648-49a0-a493-9f9e9d1f7f6f" name="Changes" comment="Add Algorithms03_BitManipulation, Update README.md" />
+    <list default="true" id="06ba60b1-1648-49a0-a493-9f9e9d1f7f6f" name="Changes" comment="Update README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,32 +46,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "JUnit.BitManipulationTest.executor": "Run",
-    "JUnit.BitManipulationTest.testCountSetBits.executor": "Run",
-    "JUnit.BitManipulationTest.testIsPowerOf2.executor": "Run",
-    "JUnit.BitManipulationTest.testPowerOf2.executor": "Run",
-    "JUnit.BitManipulationTest.testPowerOf2Overflow.executor": "Run",
-    "JUnit.TestRecursionParadigm.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/math/Documents/Spring-Data-JPA-final_revision",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitManipulationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitManipulationTest.testCountSetBits.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitManipulationTest.testIsPowerOf2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitManipulationTest.testPowerOf2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitManipulationTest.testPowerOf2Overflow.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRecursionParadigm.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/math/Documents/Spring-Data-JPA-final_revision&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.BitManipulationTest.testCountSetBits">
     <configuration name="BitManipulationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithms03_BitManipulation" />
@@ -182,6 +185,8 @@
       <workItem from="1744734736858" duration="1424000" />
       <workItem from="1744922005420" duration="4570000" />
       <workItem from="1744942877600" duration="7212000" />
+      <workItem from="1744997031809" duration="777000" />
+      <workItem from="1745687206018" duration="2287000" />
     </task>
     <task id="LOCAL-00001" summary="Add Algorithms01-Recursion, Update README.md">
       <option name="closed" value="true" />
@@ -223,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744949950698</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1745157034113</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745157034113</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,8 +245,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add Algorithms01-Recursion, Update README.md" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="Add Algorithms03_BitManipulation, Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Algorithms03_BitManipulation, Update README.md" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>
